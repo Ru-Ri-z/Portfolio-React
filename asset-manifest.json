@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.bd582c05.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.91aa67a6.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.91aa67a6.chunk.js.map",
+    "runtime-main.js": "/Portfolio-React/static/js/runtime-main.bb2d189c.js",
+    "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.bb2d189c.js.map",
+    "static/css/2.15c72766.chunk.css": "/Portfolio-React/static/css/2.15c72766.chunk.css",
+    "static/js/2.ef734193.chunk.js": "/Portfolio-React/static/js/2.ef734193.chunk.js",
+    "static/js/2.ef734193.chunk.js.map": "/Portfolio-React/static/js/2.ef734193.chunk.js.map",
+    "index.html": "/Portfolio-React/index.html",
+    "static/css/2.15c72766.chunk.css.map": "/Portfolio-React/static/css/2.15c72766.chunk.css.map",
+    "static/css/main.bd582c05.chunk.css.map": "/Portfolio-React/static/css/main.bd582c05.chunk.css.map",
+    "static/js/2.ef734193.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.ef734193.chunk.js.LICENSE.txt",
+    "static/media/coverVideo.ee5db30f.mp4": "/Portfolio-React/static/media/coverVideo.ee5db30f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb2d189c.js",
+    "static/css/2.15c72766.chunk.css",
+    "static/js/2.ef734193.chunk.js",
+    "static/css/main.bd582c05.chunk.css",
+    "static/js/main.91aa67a6.chunk.js"
+  ]
+}
